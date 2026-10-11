@@ -1,4 +1,3 @@
-
 window.FIREBASE_CONFIG = {
   apiKey: "AIzaSyC4F87oTgDlqifKRrPmByRq9vXCRV43J2U",
   authDomain: "kocluk-veli.firebaseapp.com",
